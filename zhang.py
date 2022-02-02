@@ -8,4 +8,5 @@ yes
 yes two
 
 test remote
+test remote two
 """
