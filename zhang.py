@@ -6,4 +6,6 @@ ng
 
 yes
 yes two
+
+test remote
 """
